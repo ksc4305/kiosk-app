@@ -16,9 +16,11 @@
     cursor: pointer;
     font-size: 24px;
     transition: background-color 0.3s ease;
+    background-color: #FFFACD; /* 연한 레몬색 배경 */
+    border-radius: 15px; /* 모서리 둥글게 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 추가 */
 }
 
 .order-box:hover {
     background-color: #f0f0f0;
 }
-
